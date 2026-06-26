@@ -238,7 +238,7 @@ section h3 {
     flex: 1;
     display: flex;
     justify-content: center;
-    gap: 100px;
+    gap: 75px;
 }
 
 .meio-contato{
